@@ -1,0 +1,18 @@
+{
+    "name": "alex.santana/portalca",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/",
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Santana",
+            "email": "analistaalexsantana@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
